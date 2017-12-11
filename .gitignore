@@ -1,6 +1,9 @@
 .idea/
 out/
 target/
+results/
+images/
+fragments/
 
 *.iml
 
